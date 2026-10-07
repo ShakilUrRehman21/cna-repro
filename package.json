@@ -1,0 +1,8 @@
+{
+  "name": "cna-reproduction",
+  "version": "1.0.0",
+  "description": "Minimal reproduction for create-next-app omitted next steps commands",
+  "scripts": {
+    "repro": "npx create-next-app@canary test-app --ts --app --skip-install"
+  }
+}
